@@ -1,7 +1,12 @@
 title: Marcia Mondiale per la Pace e la Nonviolenza
 description: [A short description of your site's purpose]
 show_downloads: false
-google_analytics:
+google_analytics: UA-95775-27
 theme: jekyll-theme-cayman
 
 lang: it_IT
+
+social:
+  name: Marcia Mondiale per la Pace e la Nonviolenza
+  links:
+    - https://www.facebook.com/MarciaMondiale
